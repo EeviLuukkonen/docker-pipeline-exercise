@@ -1,8 +1,7 @@
 # example-frontend
 
-This project is created to help learn docker configurations for frontend projects. The README starting from "Prerequisites" is written without Docker in mind so student has to figure out how to construct their configuration based on the README. However, there are some additional helpers added in the README and in the exercise description.
-
-> Notice, that all the information are not needed in all the exercises. Don't just copypaste.
+This is example-frontend project from course material of course Devops with Docker. I have only added a Fly.io deployment pipeline as an excercise.
+Here is link to the application: https://example-frontend.fly.dev
 
 # Prerequisites
 
